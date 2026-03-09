@@ -1,35 +1,35 @@
 const translation = {
   common: {
-    welcome: 'Xin chào',
-    appUnavailable: 'App is unavailable',
-    appUnkonwError: 'App is unavailable',
+    welcome: 'Chào mừng bạn sử dụng',
+    appUnavailable: 'Ứng dụng không khả dụng',
+    appUnkonwError: 'Ứng dụng không khả dụng',
   },
   chat: {
-    newChat: 'New chat',
-    newChatDefaultName: 'New conversation',
-    openingStatementTitle: 'Opening statement',
-    powerBy: 'Powered by',
-    prompt: 'Prompt',
-    privatePromptConfigTitle: 'Conversation settings',
-    publicPromptConfigTitle: 'Initial Prompt',
-    configStatusDes: 'Before start, you can modify conversation settings',
+    newChat: 'Cuộc trò chuyện mới',
+    newChatDefaultName: 'Cuộc trò chuyện mới',
+    openingStatementTitle: 'Lời mở đầu',
+    powerBy: 'Được hỗ trợ bởi',
+    prompt: 'Nhắc nhở',
+    privatePromptConfigTitle: 'Cài đặt cuộc trò chuyện',
+    publicPromptConfigTitle: 'Nhắc nhở ban đầu',
+    configStatusDes: 'Trước khi bắt đầu, bạn có thể chỉnh sửa cài đặt cuộc trò chuyện',
     configDisabled:
-      'Previous session settings have been used for this session.',
-    startChat: 'Start Chat',
+      'Cài đặt của phiên trước đã được sử dụng cho phiên này.',
+    startChat: 'Bắt đầu trò chuyện',
     privacyPolicyLeft:
-      'Please read the ',
+      'Vui lòng đọc ',
     privacyPolicyMiddle:
-      'privacy policy',
+      'chính sách bảo mật',
     privacyPolicyRight:
-      ' provided by the app developer.',
+      ' được cung cấp bởi nhà phát triển ứng dụng.',
   },
   errorMessage: {
-    valueOfVarRequired: 'Variables value can not be empty',
+    valueOfVarRequired: 'Giá trị của biến không thể để trống',
     waitForResponse:
-      'Please wait for the response to the previous message to complete.',
+      'Vui lòng đợi phản hồi từ tin nhắn trước khi gửi tin nhắn mới.',
   },
   variableTable: {
-    optional: 'Optional',
+    optional: 'Tùy chọn',
   },
 }
 
